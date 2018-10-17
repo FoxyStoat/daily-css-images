@@ -14,8 +14,6 @@ This challenge is now closed but if you would like to read more about it, here a
 
 #### Daily Challenges
 
-* Day 01: Daily CSS Images :: 01
-
-#### Bear Cub
+* #### Daily CSS Images :: 01 Bear Cub
 
 The challenge begins! Don't overthink it. A cub can be made in only a few shapes.
