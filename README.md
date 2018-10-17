@@ -18,8 +18,12 @@ This challenge is now closed but if you would like to read more about it, here a
 
 The challenge begins! Don't overthink it. A cub can be made in only a few shapes.
 
+My first day went well, I feel it looks like a bear, kept it simple with just a few shapes.
+
 * #### Daily CSS Images :: 02 Elephant
 
 Remember that simple is usually better.
 Just a face will do, but you can do more if you'd like.
 Dumbo? Peanuts? What will be your take?
+
+Ok, so my attempt looks kinda hideous haha, the trunk especially needs work but I had fun.  Every day I will improve.
