@@ -17,3 +17,9 @@ This challenge is now closed but if you would like to read more about it, here a
 * #### Daily CSS Images :: 01 Bear Cub
 
 The challenge begins! Don't overthink it. A cub can be made in only a few shapes.
+
+* #### Daily CSS Images :: 02 Elephant
+
+Remember that simple is usually better.
+Just a face will do, but you can do more if you'd like.
+Dumbo? Peanuts? What will be your take?
