@@ -27,3 +27,7 @@ Just a face will do, but you can do more if you'd like.
 Dumbo? Peanuts? What will be your take?
 
 Ok, so my attempt looks kinda hideous haha, the trunk especially needs work but I had fun.  Every day I will improve.
+
+* #### Daily CSS Images :: 03 Beaver
+
+Think about how you can continue to keep it simple, but give this a personal touch.
