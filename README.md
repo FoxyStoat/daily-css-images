@@ -26,7 +26,7 @@ Remember that simple is usually better.
 Just a face will do, but you can do more if you'd like.
 Dumbo? Peanuts? What will be your take?
 
-Ok, so my attempt looks kinda hideous haha, the trunk especially needs work but I had fun.  Every day I will improve.
+Ok, so my attempt looks kinda hideous haha, the trunk especially needs work and the face reminds me of Thomas the tank engine but with a trunk.  The main thing is I had fun and it's giving my CSS skills a boost.  Every day I will improve.
 
 * #### Daily CSS Images :: 03 Beaver
 
