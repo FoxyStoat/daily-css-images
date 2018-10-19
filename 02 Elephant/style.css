@@ -20,8 +20,8 @@ span {
   margin: auto;
   display: block;
   margin-top: 1%;
-  width: 500px;
-  height: 500px;
+  width: 600px;
+  height: 420px;
   background: none;
 	border: 5px solid #000;
 }
@@ -29,11 +29,11 @@ span {
 .head {
 	position: absolute;
 	background: #e0dede;
-	width: 40%;
+	width: 30%;
 	height: 40%;
 	top: 10%;
-	left: 32.5%;
-	border-radius: 50%;
+	left: 35%;
+	border-radius: 45%;
 }
 
 .head-overlay {
@@ -41,7 +41,7 @@ span {
   height: 100%;
   position: absolute;
   background: #e0dede;
-  border-radius: 50%;
+  border-radius: 45%;
   z-index: 6;
 	border: 2px solid #000;
 }
@@ -64,7 +64,6 @@ span {
 .trunk-overlay {
 	position: absolute;
 	background: #e0dede;
-/* 			background: #fff; */
 	width: 99%;
 	height: 48%;
 	top: -18%;
@@ -146,7 +145,7 @@ span {
 	height: 85%;
 	right: -38%;
 	top: -7%;
-	border-radius: 50%;
+	border-radius: 42%;
 	border: 2px solid #000;
 	z-index: 4;
 }
@@ -213,7 +212,6 @@ span {
 	right: 21%;
 	border-radius: 50%;
 	z-index: 7;
-/* 	border: 2px solid #000; */
 }
 
 .left-eye {
@@ -223,8 +221,8 @@ span {
 .pupil {
 	position: absolute;
 	background: #000;
-	width: 40%;
-	height: 37%;
+	width: 53%;
+	height: 58%;
 	left: 30%;
 	top: 31.5%;
 	border-radius: 50%;
