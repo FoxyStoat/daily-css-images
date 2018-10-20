@@ -33,3 +33,7 @@ My attempt: Ok, so my attempt looks kinda hideous haha, the trunk especially nee
 Think about how you can continue to keep it simple, but give this a personal touch.
 
 My attempt: It looks better than the elephant!
+
+* #### Daily CSS Images :: 04 Tiger
+
+Don't worry. It can be still be cute and simple. Just a face is still perfectly ok.
