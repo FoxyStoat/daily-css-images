@@ -1,0 +1,40 @@
+/* COLOURS:
+
+*/
+
+h1 {
+	text-align: center;
+	font-size: 3em;
+	font-family: 'Amatic SC', cursive;
+}
+
+span {
+	margin: 0 0.3em;
+}
+
+.container {
+  position: relative;
+  margin: auto;
+  display: block;
+  margin-top: 1%;
+  width: 600px;
+  height: 420px;
+  background: none;
+}
+
+/* MEDIA QUERIES */
+@media all and (max-width: 600px) {
+  .container {
+    position: relative;
+    margin: auto;
+    display: block;
+    margin-top: 1%;
+    width: 400px;
+    height: 280px;
+    background: none;
+  }
+
+  h1 {
+		font-size: 2em;
+	}
+}
