@@ -26,14 +26,18 @@ Remember that simple is usually better.
 Just a face will do, but you can do more if you'd like.
 Dumbo? Peanuts? What will be your take?
 
-My attempt: Ok, so my attempt looks kinda hideous haha, the trunk especially needs work and the face reminds me of Thomas the tank engine but with a trunk.  The main thing is I had fun and it's giving my CSS skills a boost.  Every day I will improve.
+My attempt: OMG, so my attempt looks hideous haha, the trunk especially needs work and the face reminds me of Thomas the tank engine but with a trunk.  The main thing is I had fun and it's giving my CSS skills a boost.  Every day I will improve.  Should of kept this simple.
 
 * #### Daily CSS Images :: 03 Beaver
 
 Think about how you can continue to keep it simple, but give this a personal touch.
 
-My attempt: It looks better than the elephant!
+My attempt: It looks better than the elephant!  I am actually pleased with how this turned out.
 
 * #### Daily CSS Images :: 04 Tiger
 
 Don't worry. It can be still be cute and simple. Just a face is still perfectly ok.
+
+After a very long break away from this challenge, I have picked up where I had left it, on the Tiger.  After a very rough few years, I am back today 25/04/2020 to finish this challenge.
+
+My attempt: Day four the Tiger went well and I am pleased with the result, I kept it simple.
