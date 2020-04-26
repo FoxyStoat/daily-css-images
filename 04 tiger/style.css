@@ -32,8 +32,16 @@
     top: 10%;
     left: 30%;
     transform: rotate(45deg);
+    -webkit-transform: rotate(45deg);
+    -moz-transform: rotate(45deg);
+    -ms-transform: rotate(45deg);
+    -o-transform: rotate(45deg);
     border-radius: 35%;
-  }
+    -webkit-border-radius: 35%;
+    -moz-border-radius: 35%;
+    -ms-border-radius: 35%;
+    -o-border-radius: 35%;
+}
   
   .left-ear,
   .right-ear {
@@ -69,7 +77,11 @@
     left: -25%;
     top: 44%;
     transform: rotate(5deg);
-  }
+    -webkit-transform: rotate(5deg);
+    -moz-transform: rotate(5deg);
+    -ms-transform: rotate(5deg);
+    -o-transform: rotate(5deg);
+}
   
   .inner-ear-right {
     position: absolute;
@@ -80,7 +92,11 @@
     left: 45%;
     top: -20%;
     transform: rotate(100deg);
-  }
+    -webkit-transform: rotate(100deg);
+    -moz-transform: rotate(100deg);
+    -ms-transform: rotate(100deg);
+    -o-transform: rotate(100deg);
+}
   
   .stripes,
   .stripe-one {
@@ -91,23 +107,43 @@
     top: 17%;
     left: 5%;
     border-radius: 5px 100% 0 0;
+    -webkit-border-radius: 5px 100% 0 0;
+    -moz-border-radius: 5px 100% 0 0;
+    -ms-border-radius: 5px 100% 0 0;
+    -o-border-radius: 5px 100% 0 0;
     transform: rotate(35deg);
-  }
+    -webkit-transform: rotate(35deg);
+    -moz-transform: rotate(35deg);
+    -ms-transform: rotate(35deg);
+    -o-transform: rotate(35deg);
+}
   
   .stripe-two {
     width: 30%;
     top: 11%;
     left: 14%;
     transform: rotate(37deg);
+    -webkit-transform: rotate(37deg);
+    -moz-transform: rotate(37deg);
+    -ms-transform: rotate(37deg);
+    -o-transform: rotate(37deg);
     border-radius: 8px 100% 0 0;
-  }
+    -webkit-border-radius: 8px 100% 0 0;
+    -moz-border-radius: 8px 100% 0 0;
+    -ms-border-radius: 8px 100% 0 0;
+    -o-border-radius: 8px 100% 0 0;
+}
   
   .stripe-three {
     width: 25%;
     top: 70%;
     left: 1%;
     transform: rotate(-32deg);
-  }
+    -webkit-transform: rotate(-32deg);
+    -moz-transform: rotate(-32deg);
+    -ms-transform: rotate(-32deg);
+    -o-transform: rotate(-32deg);
+}
   
   .stripe-four {
     width: 36%;
@@ -115,7 +151,11 @@
     left: 9%;
     border-radius: 1px 100% 0 0;
     transform: rotate(-37deg);
-  }
+    -webkit-transform: rotate(-37deg);
+    -moz-transform: rotate(-37deg);
+    -ms-transform: rotate(-37deg);
+    -o-transform: rotate(-37deg);
+}
   
   .stripe-five {
     width: 36%;
@@ -123,7 +163,11 @@
     left:63%;
     border-radius: 3px 0 100% 0;
     transform: rotate(132deg);
-  }
+    -webkit-transform: rotate(132deg);
+    -moz-transform: rotate(132deg);
+    -ms-transform: rotate(132deg);
+    -o-transform: rotate(132deg);
+}
   
   .stripe-six {
     width: 25%;
@@ -131,24 +175,43 @@
     left: 60%;
     border-radius: 3px 20% 100% 0;
     transform: rotate(125deg);
-  }
+    -webkit-transform: rotate(125deg);
+    -moz-transform: rotate(125deg);
+    -ms-transform: rotate(125deg);
+    -o-transform: rotate(125deg);
+}
   
   .stripe-seven {
     width: 20%;
     top: 32%;
     left:83%;
     border-radius: 8px 0 100% 0;
+    -webkit-border-radius: 8px 0 100% 0;
+    -moz-border-radius: 8px 0 100% 0;
+    -ms-border-radius: 8px 0 100% 0;
+    -o-border-radius: 8px 0 100% 0;
     transform: rotate(132deg);
-  }
+    -webkit-transform: rotate(132deg);
+    -moz-transform: rotate(132deg);
+    -ms-transform: rotate(132deg);
+    -o-transform: rotate(132deg);
+}
   
   .stripe-eight {
     width: 20%;
     top: 90%;
     left: 25%;
-    border-radius: 8px 100% 0 0;
     border-radius: 0 100% 0 8px;
+    -webkit-border-radius: 0 100% 0 8px;
+    -moz-border-radius: 0 100% 0 8px;
+    -ms-border-radius: 0 100% 0 8px;
+    -o-border-radius: 0 100% 0 8px;
     transform: rotate(-40deg);
-  }
+    -webkit-transform: rotate(-40deg);
+    -moz-transform: rotate(-40deg);
+    -ms-transform: rotate(-40deg);
+    -o-transform: rotate(-40deg);
+}
   
   .eyes {
     position: absolute;
@@ -157,9 +220,17 @@
     border-radius: 50%;
     background-color: transparent;
     border-radius: 50%;
+    -webkit-border-radius: 50%;
+    -moz-border-radius: 50%;
+    -ms-border-radius: 50%;
+    -o-border-radius: 50%;
     box-shadow: 1px 4px 0 0 #000;
     transform: rotate(150deg);
-  }
+    -webkit-transform: rotate(150deg);
+    -moz-transform: rotate(150deg);
+    -ms-transform: rotate(150deg);
+    -o-transform: rotate(150deg);
+}
   
   .left-eye {
     top: 50%;
@@ -179,8 +250,16 @@
     left: 54%;
     background: #362318;
     border-radius: 3px 20% 100% 0;
+    -webkit-border-radius: 3px 20% 100% 0;
+    -moz-border-radius: 3px 20% 100% 0;
+    -ms-border-radius: 3px 20% 100% 0;
+    -o-border-radius: 3px 20% 100% 0;
     transform: rotate(180deg);
-  }
+    -webkit-transform: rotate(180deg);
+    -moz-transform: rotate(180deg);
+    -ms-transform: rotate(180deg);
+    -o-transform: rotate(180deg);
+}
   
   .nose-join {
     position: absolute;
@@ -190,7 +269,11 @@
     top: 59%;
     left: 67%;
     transform: rotate(-45deg);
-  }
+    -webkit-transform: rotate(-45deg);
+    -moz-transform: rotate(-45deg);
+    -ms-transform: rotate(-45deg);
+    -o-transform: rotate(-45deg);
+}
   
   .mouth {
     position: absolute;
@@ -200,9 +283,17 @@
     left: 59%;
     background-color: transparent;
     border-radius: 50%;
+    -webkit-border-radius: 50%;
+    -moz-border-radius: 50%;
+    -ms-border-radius: 50%;
+    -o-border-radius: 50%;
     box-shadow: 1px 4px 0 0 #362318;
     transform: rotate(-30deg);
-  }
+    -webkit-transform: rotate(-30deg);
+    -moz-transform: rotate(-30deg);
+    -ms-transform: rotate(-30deg);
+    -o-transform: rotate(-30deg);
+}
   
   
   
@@ -247,7 +338,11 @@
       left: -14%;
       top: 42%;
       transform: rotate(-5deg);
-    }
+      -webkit-transform: rotate(-5deg);
+      -moz-transform: rotate(-5deg);
+      -ms-transform: rotate(-5deg);
+      -o-transform: rotate(-5deg);
+}
   
     .inner-ear-right {
       border-top: 7px solid transparent;
