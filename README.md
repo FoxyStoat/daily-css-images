@@ -41,3 +41,10 @@ Don't worry. It can be still be cute and simple. Just a face is still perfectly 
 After a very long break away from this challenge, I have picked up where I had left it, on the Tiger.  After a very rough few years, I am back today 25/04/2020 to finish this challenge.
 
 My attempt: Day four the Tiger went well and I am pleased with the result, I kept it simple.
+
+* #### Daily CSS Images :: 05 Favorite Animated Animal
+
+End the animal series with a bang!  Dig deep and pull out that creativity.
+Dory? Snoopy?  What animated animal would you like to showcase?
+
+My attempt:
