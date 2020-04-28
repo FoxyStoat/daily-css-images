@@ -191,6 +191,17 @@ span {
 	transform: rotate(-20deg);
 }
 
+.nose {
+	position: absolute;
+	width: 20%;
+	height: 20%;
+	background: #000;
+	bottom: -2%;
+	right: -2%;
+	z-index: 12;
+	border-radius: 50%;
+}
+
  @media all and (max-width: 600px) {
     .container {
         position: relative;
