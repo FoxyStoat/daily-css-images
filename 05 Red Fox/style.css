@@ -88,6 +88,28 @@ span {
 	transform: rotate(12deg);
 }
 
+.eyes {
+	position: absolute;
+	width: 30px;
+	height: 30px;
+	border-radius: 50%;
+	background-color: transparent;
+    border-radius: 50%;
+    box-shadow: 1px 4px 0 0 #000;
+	z-index: 11;
+}
+
+.left-eye {
+	top: 50%;
+	left: 30%;
+}
+
+.right-eye {
+	top: 30%;
+	left: 50%;
+	transform: rotate(-50deg);
+}
+
  @media all and (max-width: 600px) {
     .container {
         position: relative;
