@@ -1,3 +1,8 @@
+/* COLOURS: 
+orangered #e63e00
+light orange #f18439
+*/
+
 h1 {
     text-align: center;
     font-size: 3em;
@@ -16,6 +21,29 @@ span {
     width: 600px;
     height: 420px;
     background: none;
+}
+
+.head {
+	position: absolute;
+	background: #e63e00;
+	width: 35%;
+	height: 50%;
+	top: 10%;
+	left: 30%;
+	transform: rotate(45deg);
+	border-radius: 11%;
+	z-index: 1;
+}
+
+.head-overlay {
+	position: absolute;
+	width: 100%;
+	height: 100%;
+	background: #e63e00;
+	top: 0;
+	left: 0;
+	border-radius: 11%;
+	z-index: 10;
 }
 
  @media all and (max-width: 600px) {
