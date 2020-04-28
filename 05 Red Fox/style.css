@@ -110,6 +110,87 @@ span {
 	transform: rotate(-50deg);
 }
 
+.eyelashes {
+	position: absolute;
+	width: 10%;
+	height: 40%;
+	background: #000;
+}
+
+.eyelash-1 {
+	border-radius: 0 100% 0 0;
+	top: 80%;
+	left: 2%;
+	transform: rotate(180deg);
+}
+
+.eyelash-2 {
+	border-radius: 0 100% 0 0;
+	top: 95%;
+	left: 25%;
+	transform: rotate(170deg);
+}
+
+.eyelash-3 {
+	border-radius: 0 100% 0 0;
+	top: 100%;
+	left: 50%;
+	transform: rotate(160deg);
+}
+
+.eyelash-4 {
+	border-radius: 0 100% 0 0;
+	top: 95%;
+	left: 75%;
+	transform: rotate(150deg);
+}
+
+.eyelash-5 {
+	border-radius: 0 100% 0 0;
+	top: 75%;
+	left: 100%;
+	transform: rotate(150deg);
+}
+
+.eyelash-6 {
+	border-radius: 0 0 100% 0;
+	top: 50%;
+	left: 110%;
+	transform: rotate(-45deg);
+}
+
+.eyelash-7 {
+	border-radius: 0 0 100% 0;
+	top: 75%;
+	left: 100%;
+	transform: rotate(-45deg);
+}
+
+.eyelash-8 {
+	border-radius: 0 0 100% 0;
+	top: 90%;
+	left: 80%;
+	transform: rotate(-45deg);
+}
+
+.eyelash-9 {
+	border-radius: 0 0 100% 0;
+	top: 100%;
+	left: 60%;
+	transform: rotate(-35deg);
+}
+
+.eyelash-10 {
+	position: absolute;
+	width: 10%;
+	height: 40%;
+	border-radius: 0 0 100% 0;
+	top: 100%;
+	left: 30%;
+	background: #000;
+	transform: rotate(-20deg);
+}
+
  @media all and (max-width: 600px) {
     .container {
         position: relative;
