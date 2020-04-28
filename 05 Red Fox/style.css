@@ -46,6 +46,48 @@ span {
 	z-index: 10;
 }
 
+.left-ear,
+.right-ear {
+	position: absolute;
+	width: 40%;
+	height: 40%;
+	background: #e63e00;
+	border-radius: 7%;
+}
+
+.right-ear {
+	top: -15%;
+	left: 35%;
+	transform: rotate(-53deg);
+}
+
+.inner-ear-left,
+.inner-ear-right {
+	position: absolute;
+	width: 60%;
+	height: 60%;
+	background: #f18439;
+	border-radius: 8%;
+}
+
+.inner-ear-right {
+	transform: rotate(-12deg);
+	top: 25%;
+	left: 20%;
+}
+
+.left-ear {
+	bottom: 25%;
+	left: -15%;
+	transform: rotate(53deg);
+}
+
+.inner-ear-left {
+	top: 20%;
+	left: 25%;
+	transform: rotate(12deg);
+}
+
  @media all and (max-width: 600px) {
     .container {
         position: relative;
