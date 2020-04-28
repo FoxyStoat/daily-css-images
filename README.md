@@ -47,4 +47,4 @@ My attempt: Day four the Tiger went well and I am pleased with the result, I kep
 End the animal series with a bang!  Dig deep and pull out that creativity.
 Dory? Snoopy?  What animated animal would you like to showcase?
 
-My attempt:
+My attempt: Day five Favorite Animated Animal.  Red Foxes are my absolute favorite animal.  Kept this one super simple today.
