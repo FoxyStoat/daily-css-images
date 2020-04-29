@@ -48,3 +48,9 @@ End the animal series with a bang!  Dig deep and pull out that creativity.
 Dory? Snoopy?  What animated animal would you like to showcase?
 
 My attempt: Day five Favorite Animated Animal.  Red Foxes are my absolute favorite animal.  Kept this one super simple today.
+
+* #### Daily CSS Images :: 06 Clock
+
+Tick tock! Back to the journey. 
+
+My attempt:
