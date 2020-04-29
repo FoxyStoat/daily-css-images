@@ -232,12 +232,19 @@ span {
 	background: #000;
 }
 
-.eyelash-1 {
+.eyelash-1,
+.eyelash-2,
+.eyelash-3,
+.eyelash-4,
+.eyelash-5 {
 	border-radius: 0 100% 0 0;
 	-webkit-border-radius: 0 100% 0 0;
 	-moz-border-radius: 0 100% 0 0;
 	-ms-border-radius: 0 100% 0 0;
 	-o-border-radius: 0 100% 0 0;
+}
+
+.eyelash-1 {
 	top: 80%;
 	left: 2%;
 	transform: rotate(180deg);
@@ -248,11 +255,6 @@ span {
 }
 
 .eyelash-2 {
-	border-radius: 0 100% 0 0;
-	-webkit-border-radius: 0 100% 0 0;
-	-moz-border-radius: 0 100% 0 0;
-	-ms-border-radius: 0 100% 0 0;
-	-o-border-radius: 0 100% 0 0;
 	top: 95%;
 	left: 25%;
 	transform: rotate(170deg);
@@ -263,11 +265,6 @@ span {
 }
 
 .eyelash-3 {
-	border-radius: 0 100% 0 0;
-	-webkit-border-radius: 0 100% 0 0;
-	-moz-border-radius: 0 100% 0 0;
-	-ms-border-radius: 0 100% 0 0;
-	-o-border-radius: 0 100% 0 0;
 	top: 100%;
 	left: 50%;
 	transform: rotate(160deg);
@@ -278,11 +275,6 @@ span {
 }
 
 .eyelash-4 {
-	border-radius: 0 100% 0 0;
-	-webkit-border-radius: 0 100% 0 0;
-	-moz-border-radius: 0 100% 0 0;
-	-ms-border-radius: 0 100% 0 0;
-	-o-border-radius: 0 100% 0 0;
 	top: 95%;
 	left: 75%;
 	transform: rotate(150deg);
@@ -293,11 +285,6 @@ span {
 }
 
 .eyelash-5 {
-	border-radius: 0 100% 0 0;
-	-webkit-border-radius: 0 100% 0 0;
-	-moz-border-radius: 0 100% 0 0;
-	-ms-border-radius: 0 100% 0 0;
-	-o-border-radius: 0 100% 0 0;
 	top: 75%;
 	left: 100%;
 	transform: rotate(150deg);
@@ -307,53 +294,46 @@ span {
 	-o-transform: rotate(150deg);
 }
 
-.eyelash-6 {
+.eyelash-6,
+.eyelash-7,
+.eyelash-8,
+.eyelash-9,
+.eyelash-10 {
 	border-radius: 0 0 100% 0;
 	-webkit-border-radius: 0 0 100% 0;
 	-moz-border-radius: 0 0 100% 0;
 	-ms-border-radius: 0 0 100% 0;
 	-o-border-radius: 0 0 100% 0;
-	top: 50%;
-	left: 110%;
+}
+
+.eyelash-6,
+.eyelash-7,
+.eyelash-8 {
 	transform: rotate(-45deg);
 	-webkit-transform: rotate(-45deg);
 	-moz-transform: rotate(-45deg);
 	-ms-transform: rotate(-45deg);
 	-o-transform: rotate(-45deg);
+}
+
+.eyelash-6 {
+	top: 50%;
+	left: 110%;
+
 }
 
 .eyelash-7 {
-	border-radius: 0 0 100% 0;
 	top: 75%;
 	left: 100%;
 	transform: rotate(-45deg);
-	-webkit-border-radius: 0 0 100% 0;
-	-moz-border-radius: 0 0 100% 0;
-	-ms-border-radius: 0 0 100% 0;
-	-o-border-radius: 0 0 100% 0;
 }
 
 .eyelash-8 {
-	border-radius: 0 0 100% 0;
-	-webkit-border-radius: 0 0 100% 0;
-	-moz-border-radius: 0 0 100% 0;
-	-ms-border-radius: 0 0 100% 0;
-	-o-border-radius: 0 0 100% 0;
 	top: 90%;
 	left: 80%;
-	transform: rotate(-45deg);
-	-webkit-transform: rotate(-45deg);
-	-moz-transform: rotate(-45deg);
-	-ms-transform: rotate(-45deg);
-	-o-transform: rotate(-45deg);
 }
 
 .eyelash-9 {
-	border-radius: 0 0 100% 0;
-	-webkit-border-radius: 0 0 100% 0;
-	-moz-border-radius: 0 0 100% 0;
-	-ms-border-radius: 0 0 100% 0;
-	-o-border-radius: 0 0 100% 0;
 	top: 100%;
 	left: 60%;
 	transform: rotate(-35deg);
@@ -365,16 +345,8 @@ span {
 
 .eyelash-10 {
 	position: absolute;
-	width: 10%;
-	height: 40%;
-	border-radius: 0 0 100% 0;
-	-webkit-border-radius: 0 0 100% 0;
-	-moz-border-radius: 0 0 100% 0;
-	-ms-border-radius: 0 0 100% 0;
-	-o-border-radius: 0 0 100% 0;
 	top: 100%;
 	left: 30%;
-	background: #000;
 	transform: rotate(-20deg);
 	-webkit-transform: rotate(-20deg);
 	-moz-transform: rotate(-20deg);
