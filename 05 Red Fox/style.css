@@ -117,7 +117,7 @@ span {
 	background: #ffc0cb;
 	width: 15%;
 	height: 20%;
-	top: 35%;
+	top: 40%;
 	left: 50%;
 	border-radius: 50%;
 	transform: rotate(-30deg);
@@ -128,7 +128,7 @@ span {
 	background: #ffc0cb;
 	width: 15%;
 	height: 20%;
-	top: 35%;
+	top: 40%;
 	left: 35%;
 	border-radius: 50%;
 	transform: rotate(30deg);
@@ -269,5 +269,16 @@ span {
         width: 400px;
         height: 280px;
         background: none;
-    }
+	}
+	
+	.left-eye {
+		top: 45%;
+		left: 23%;
+	}
+	
+	.right-eye {
+		top: 23%;
+		left: 45%;
+		transform: rotate(-50deg);
+	}
 }
