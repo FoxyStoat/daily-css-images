@@ -88,6 +88,30 @@ span {
 	transform: rotate(12deg);
 }
 
+.cheek-left{
+	position: absolute;
+	background: #fff;
+	width: 105%;
+	height: 110%;
+	clip-path: ellipse(20% 40% at 50% 50%);
+	z-index: 12;
+	top: 23%;
+	left: 0;
+	transform: rotate(125deg);
+}
+
+.cheek-right {
+	position: absolute;
+	background: #fff;
+	width: 105%;
+	height: 110%;
+	clip-path: ellipse(20% 40% at 50% 50%);
+	z-index: 12;
+	top: 0;
+	left: 26%;
+	transform: rotate(145deg);
+}
+
 .eyes {
 	position: absolute;
 	width: 30px;
@@ -96,7 +120,7 @@ span {
 	background-color: transparent;
     border-radius: 50%;
     box-shadow: 1px 4px 0 0 #000;
-	z-index: 11;
+	z-index: 12;
 }
 
 .left-eye {
