@@ -99,3 +99,15 @@ span.number {
 	right: 43%;
 	top: 3%;
 }
+
+/* MIDDLE BUTTON */
+
+.middle-button {
+    position: absolute;
+    background-color: #000000;
+    height: 7%;
+    width: 7%;
+    border-radius: 50%; 
+    top: 46.5%;
+    right: 46.5%;
+}
