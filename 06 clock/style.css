@@ -111,3 +111,27 @@ span.number {
     top: 46.5%;
     right: 46.5%;
 }
+
+/* HANDS */
+
+.hand {
+    position: absolute;
+    width: 35%;
+    height: 5px;
+    background: #000000;
+    top: 50%;
+    right: 50%;
+    transform-origin: 100%;
+    transform: rotate(90deg);
+    transition: all 0.05s;
+    transition-timing-function: cubic-bezier(0.1, 2.7, 0.58, 1);
+}
+
+.second-hand {
+    height: 1px;
+}
+
+.hour-hand {
+    height: 5px;
+    width: 23%;
+}
