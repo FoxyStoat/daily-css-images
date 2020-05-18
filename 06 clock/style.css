@@ -103,13 +103,15 @@ span.number {
 /* MIDDLE BUTTON */
 
 .middle-button {
-    position: absolute;
+	position: absolute;
+	display: inline-block;
     background-color: #000000;
     height: 7%;
     width: 7%;
     border-radius: 50%; 
     top: 46.5%;
-    right: 46.5%;
+	right: 46.5%;
+	z-index: 10;
 }
 
 /* HANDS */
@@ -135,3 +137,32 @@ span.number {
     height: 5px;
     width: 23%;
 }
+
+@media all and (max-width: 600px) {
+
+	.container {
+	  width: 400px;
+	  height: 400px;
+	}
+	  
+	h1 {
+		font-size: 2em;
+	}
+
+	span.number {
+		font-size: 100%;
+	}
+
+	.hand {
+		height: 3px;
+	}
+	
+	.second-hand {
+		height: 1px;
+	}
+	
+	.hour-hand {
+		height: 5px;
+		width: 23%;
+	}
+  }
