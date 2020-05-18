@@ -53,4 +53,4 @@ My attempt: Day five Favorite Animated Animal.  Red Foxes are my absolute favori
 
 Tick tock! Back to the journey. 
 
-My attempt:
+My attempt: I am pleased with how it turned out.  I styled it on the evil eye and added some javaScript for functionality.
