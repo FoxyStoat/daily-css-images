@@ -180,12 +180,12 @@ body {
   
   @media all and (max-width: 600px) {
 	.container {
-	  width: 400px;
-	  height: 280px;
+	  width: 250px;
+	  height: 175px;
 	}
 	  
-	  h1 {
-		  font-size: 2em;
-	  }
+	h1 {
+		font-size: 1.6em;
+	}
   }
   
