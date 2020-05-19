@@ -294,59 +294,57 @@
     -ms-transform: rotate(-30deg);
     -o-transform: rotate(-30deg);
 }
-  
-  
-  
-  @media all and (max-width: 600px) {
-    .container {
-      width: 400px;
-      height: 280px;
-    }
-    
-    h1 {
-      font-size: 2em;
-    }
-    
-    .left-ear {
-      top: 12%;
-    }
-    
-    .nose-join {
-      position: absolute;
-      background: #362318;
-      width: 1%;
-      height: 10%;
-      top: 59%;
-      left: 67%;
-      }
-    
-    .mouth {
-      top: 48%;
-      left: 51%;
-    }
-    
-    .inner-ear-left {
-      border-top: 7px solid transparent;
-      border-right: 14px solid #362318;
-      border-bottom: 6px solid transparent;
-      border-left: 9px solid transparent;
-      left: -14%;
-      top: 42%;
-      transform: rotate(-5deg);
-      -webkit-transform: rotate(-5deg);
-      -moz-transform: rotate(-5deg);
-      -ms-transform: rotate(-5deg);
-      -o-transform: rotate(-5deg);
-}
-  
-    .inner-ear-right {
-      border-top: 7px solid transparent;
-      border-right: 14px solid #362318;
-      border-bottom: 6px solid transparent;
-      border-left: 9px solid transparent;
-      left: 40%;
-      top: -12%;
-    }
+
+@media all and (max-width: 600px) {
+  .container {
+    width: 400px;
+    height: 280px;
   }
+  
+  h1 {
+    font-size: 2em;
+  }
+  
+  .left-ear {
+    top: 12%;
+  }
+  
+  .nose-join {
+    position: absolute;
+    background: #362318;
+    width: 1%;
+    height: 10%;
+    top: 59%;
+    left: 67%;
+  }
+  
+  .mouth {
+    top: 48%;
+    left: 51%;
+  }
+  
+  .inner-ear-left {
+    border-top: 7px solid transparent;
+    border-right: 14px solid #362318;
+    border-bottom: 6px solid transparent;
+    border-left: 9px solid transparent;
+    left: -14%;
+    top: 42%;
+    transform: rotate(-5deg);
+    -webkit-transform: rotate(-5deg);
+    -moz-transform: rotate(-5deg);
+    -ms-transform: rotate(-5deg);
+    -o-transform: rotate(-5deg);
+  }
+
+  .inner-ear-right {
+    border-top: 7px solid transparent;
+    border-right: 14px solid #362318;
+    border-bottom: 6px solid transparent;
+    border-left: 9px solid transparent;
+    left: 40%;
+    top: -12%;
+  }
+}
     
   
