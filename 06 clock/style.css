@@ -172,16 +172,20 @@ span.number {
 @media all and (max-width: 600px) {
 
 	.container {
-	  width: 400px;
-	  height: 400px;
+	  width: 250px;
+	  height: 250px;
+	}
+
+	.clock-face {
+		border: 2px solid #000;
 	}
 	  
 	h1 {
-		font-size: 2em;
+		font-size: 1.5em;
 	}
 
 	span.number {
-		font-size: 100%;
+		font-size: 80%;
 	}
 
 	.hand {
@@ -193,7 +197,7 @@ span.number {
 	}
 	
 	.hour-hand {
-		height: 5px;
+		height: 3px;
 		width: 23%;
 	}
   }
