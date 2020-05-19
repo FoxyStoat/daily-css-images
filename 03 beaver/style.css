@@ -187,12 +187,7 @@ span {
 	}
 
   .container {
-    position: relative;
-    margin: auto;
-    display: block;
-    margin-top: 1%;
     width: 400px;
     height: 280px;
-    background: none;
   }
 }
