@@ -386,14 +386,14 @@ span {
 }
 
  @media all and (max-width: 600px) {
+
     .container {
-        position: relative;
-        margin: auto;
-        display: block;
-        margin-top: 1%;
         width: 400px;
         height: 280px;
-        background: none;
+	}
+
+	h1 {
+		font-size: 2em;
 	}
 	
 	.left-eye {
@@ -409,5 +409,5 @@ span {
 		-moz-transform: rotate(-50deg);
 		-ms-transform: rotate(-50deg);
 		-o-transform: rotate(-50deg);
-}
+	}
 }
