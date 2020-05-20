@@ -1,7 +1,8 @@
 /* COLOUR PALETTE
-$beige-brown: #A57628ff;
-$light-brown: #695A44ff;
-$dark-brown: #493D29ff; 
+$mustard: #D0A000ff;
+$beige: #E8B401ff;
+$light-brown: #CF9906ff;
+$dark-brown: #7D6F0Bff;
 */
 
 h1 {
@@ -29,7 +30,7 @@ span {
   height: 20%;
   left: 10%;
   top: 15%;
-  background: #A57628ff;
+  background: radial-gradient(#D0A000ff, #E8B401ff, #CF9906ff, #7D6F0Bff);
 }
 
 @media all and (max-width: 600px) {
