@@ -1,3 +1,9 @@
+/* COLOUR PALETTE
+$beige-brown: #A57628ff;
+$light-brown: #695A44ff;
+$dark-brown: #493D29ff; 
+*/
+
 h1 {
     text-align: center;
     font-size: 3em;
@@ -15,7 +21,6 @@ span {
     margin-top: 1%;
     width: 600px;
     height: 420px;
-    background: none;
 }
 
 @media all and (max-width: 600px) {
@@ -25,6 +30,6 @@ span {
     }
     
     h1 {
-      font-size: 2em;
+      font-size: 1.6em;
     }
 }
