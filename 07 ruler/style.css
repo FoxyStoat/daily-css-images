@@ -1,7 +1,8 @@
 /* COLOUR PALETTE
-$beige: #CD974D;
-$dark-brown: #B48B46;
-$yellow: #FEF26A;
+$maya-blue: #5fbff9ff;
+$magnolia: #efe9f4ff;
+$dark-jungle-green: #171d1cff;
+$neon-blue: #5863f8ff;
 */
 
 h1 {
@@ -28,7 +29,7 @@ span {
   width: 100%;
   height: 20%;
   top: 15%;
-  background: linear-gradient(0deg, #B48B46, #CD974D, #FEF26A);
+  background: linear-gradient(#5fbff9ff 0%, #efe9f4ff 40%, 50%, #5863f8ff 100%);
 }
 
 @media all and (max-width: 600px) {
