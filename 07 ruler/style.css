@@ -1,8 +1,7 @@
 /* COLOUR PALETTE
-$mustard: #D0A000ff;
-$beige: #E8B401ff;
-$light-brown: #CF9906ff;
-$dark-brown: #7D6F0Bff;
+$beige: #CD974D;
+$dark-brown: #B48B46;
+$yellow: #FEF26A;
 */
 
 h1 {
@@ -26,11 +25,10 @@ span {
 
 .ruler-body {
   position: absolute;
-  width: 80%;
+  width: 100%;
   height: 20%;
-  left: 10%;
   top: 15%;
-  background: radial-gradient(#D0A000ff, #E8B401ff, #CF9906ff, #7D6F0Bff);
+  background: linear-gradient(0deg, #B48B46, #CD974D, #FEF26A);
 }
 
 @media all and (max-width: 600px) {
