@@ -32,6 +32,25 @@ span {
   background: linear-gradient(#5fbff9ff 0%, #efe9f4ff 40%, 50%, #5863f8ff 100%);
 }
 
+.cm-container {
+  display: flex;
+  flex-flow: row nowrap;
+  justify-content: space-between;
+  padding-left: 2px;
+}
+
+.cm-span {
+  display: block;
+  text-align: center;
+  font-size: 80%;
+  font-weight: bold;
+}
+
+.cm-span::before{
+  content: "|";
+  display: block;
+}
+
 @media all and (max-width: 600px) {
   
     .container {
