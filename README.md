@@ -60,3 +60,7 @@ My attempt: I am pleased with how it turned out.  I styled it on the evil eye an
 This one is gonna rule.
 
 My attempt: Kept it super simple.
+
+* #### Daily CSS Images :: 08 Notepad
+
+Any shape, size, or kind will do.
