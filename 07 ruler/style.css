@@ -6,37 +6,37 @@ $neon-blue: #5863f8ff;
 */
 
 h1 {
-    text-align: center;
-    font-size: 3em;
-    font-family: 'Amatic SC', cursive;
+  text-align: center;
+  font-size: 3em;
+  font-family: 'Amatic SC', cursive;
 }
 
 span {
-    margin: 0 0.3em;
+  margin: 0 0.3em;
 }
 
 .container {
-    position: relative;
-    margin: auto;
-    display: block;
-    margin-top: 1%;
-    width: 600px;
-    height: 420px;
+  position: relative;
+  margin: auto;
+  display: block;
+  margin-top: 1%;
+  width: 600px;
+  height: 420px;
 }
 
 .ruler-body {
   position: absolute;
   width: 100%;
-  height: 20%;
+  height: 15%;
   top: 15%;
-  background: linear-gradient(#5fbff9ff 0%, #efe9f4ff 40%, 50%, #5863f8ff 100%);
+  background: linear-gradient(#5fbff9ff 0%, #efe9f4ff 40%, 70%, #5863f8ff 100%);
 }
 
 .cm-container {
   display: flex;
   flex-flow: row nowrap;
   justify-content: space-between;
-  padding-left: 2px;
+  padding: 0 7px;
 }
 
 .cm-span {
@@ -44,21 +44,27 @@ span {
   text-align: center;
   font-size: 80%;
   font-weight: bold;
+  color: #171d1cff;
 }
 
+/* \007c for | pipe sign */
 .cm-span::before{
-  content: "|";
+  content: '\007c';
   display: block;
 }
 
 @media all and (max-width: 600px) {
+
+  .container {
+    width: 250px;
+    height: 175px;
+  }
   
-    .container {
-      width: 250px;
-      height: 175px;
-    }
-    
-    h1 {
-      font-size: 1.6em;
+  h1 {
+    font-size: 1.6em;
+  }
+
+  .cm-span {
+    font-size: 50%;
     }
 }
