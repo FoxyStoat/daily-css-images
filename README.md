@@ -54,6 +54,7 @@ My attempt: Day five Favorite Animated Animal.  Red Foxes are my absolute favori
 Tick tock! Back to the journey. 
 
 My attempt: I am pleased with how it turned out.  I styled it on the evil eye and added some javaScript for functionality.
+I've actually updated this because I had displayed the numbers in the HTML but that got me thinking is that pure CSS?  So I have updated the code so that the numbers displayed are from using the `::after` pseudo selector
 
 * #### Daily CSS Images :: 07 Ruler
 
