@@ -32,13 +32,13 @@ span {
 
 /* NUMBERS */
 
-span.number {
-	display: block;
+.number {
 	position: absolute;
 	color: #fff;
 	width: 10%;
+	height: 10%;
 	text-align: center;
-	font-size: 150%;
+	font-size: 100%;
 }
 
 .number-1 {
@@ -46,9 +46,17 @@ span.number {
 	top: 10%;
 }
 
+.number-1::after {
+	content: 'I';
+}
+
 .number-2 {
 	right: 5%;
 	top: 25%;
+}
+
+.number-2::after {
+	content: 'II';
 }
 
 .number-3 {
@@ -56,9 +64,17 @@ span.number {
 	top: 45%;
 }
 
+.number-3::after {
+	content: 'III';
+}
+
 .number-4 {
 	right: 5%;
 	bottom: 25%;
+}
+
+.number-4::after {
+	content: 'IV';
 }
 
 .number-5 {
@@ -66,9 +82,17 @@ span.number {
 	bottom: 10%;
 }
 
+.number-5::after {
+	content: 'V';
+}
+
 .number-6 {
 	left: 44%;
 	bottom: 3%;
+}
+
+.number-6::after {
+	content: 'VI';
 }
 
 .number-7 {
@@ -76,9 +100,17 @@ span.number {
 	bottom: 10%;
 }
 
+.number-7::after {
+	content: 'VII';
+}
+
 .number-8 {
 	left: 5%;
 	bottom: 25%;
+}
+
+.number-8::after {
+	content: 'VIII';
 }
 
 .number-9 {
@@ -86,9 +118,17 @@ span.number {
 	top: 45%;
 }
 
+.number-9::after {
+	content: 'IX';
+}
+
 .number-10 {
 	left: 5%;
 	top: 25%;
+}
+
+.number-10::after {
+	content: 'X';
 }
 
 .number-11 {
@@ -96,9 +136,17 @@ span.number {
 	top: 10%;
 }
 
+.number-11::after {
+	content: 'XI';
+}
+
 .number-12 {
 	right: 43%;
 	top: 3%;
+}
+
+.number-12::after {
+	content: 'XII';
 }
 
 /* MIDDLE BUTTON */
@@ -184,8 +232,8 @@ span.number {
 		font-size: 1.5em;
 	}
 
-	span.number {
-		font-size: 80%;
+	.number {
+		font-size: 50%;
 	}
 
 	.hand {
