@@ -36,7 +36,7 @@ span {
   display: flex;
   flex-flow: row nowrap;
   justify-content: space-between;
-  padding: 0 5px;
+  padding: 0 3%;
 }
 
 .cm {
