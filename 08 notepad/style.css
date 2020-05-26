@@ -67,4 +67,8 @@ h1 {
     h1 {
       font-size: 1.6em;
     }
+
+    .wire-loop {
+      border: 1px solid rgba(0, 0, 0, 0.8);
+    }
   }
