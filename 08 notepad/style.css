@@ -55,32 +55,32 @@ span {
   border: 2px solid rgba(0, 0, 0, 0.8);
   transform: skew(-0.10turn, -11deg);
   box-shadow: 8px 5px 2px rgba(0, 0, 0, 0.5);
-  }
+}
 
 p.belongs-to {
   font-size: 85%;
-  color: red;
+  color: #000;
   position: absolute;
-  bottom: 1%;
+  bottom: -1%;
   right: 5%;
 }
-  
-  @media all and (max-width: 600px) {
-  
-    .container {
-      width: 250px;
-      height: 175px;
-    }
-    
-    h1 {
-      font-size: 1.6em;
-    }
 
-    .wire-loop {
-      border: 1px solid rgba(0, 0, 0, 0.8);
-    }
+@media all and (max-width: 600px) {
 
-    p.belongs-to {
-      font-size: 45%;
-    }
+  .container {
+    width: 250px;
+    height: 175px;
   }
+  
+  h1 {
+    font-size: 1.6em;
+  }
+
+  .wire-loop {
+    border: 1px solid rgba(0, 0, 0, 0.8);
+  }
+
+  p.belongs-to {
+    font-size: 45%;
+  }
+}
