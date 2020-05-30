@@ -9,12 +9,27 @@ span {
 }
 	
 .container {
-	position: relative;
 	margin: auto;
-	display: block;
 	margin-top: 1%;
 	width: 600px;
 	height: 420px;
+	display: flex;
+	flex-flow: column nowrap;
+	align-items: center;
+}
+
+.calendar-image-section {
+	position: relative;
+	width: 50%;
+	height: 50%;
+	border: 1px black solid;
+}
+
+.calendar-date-section {
+	position: relative;
+	width: 50%;
+	height: 50%;
+	border: 1px black solid;
 }
   
 	@media all and (max-width: 600px) {
