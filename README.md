@@ -67,3 +67,8 @@ My attempt: Kept it super simple.
 Any shape, size, or kind will do.
 
 My attempt: Happy to have an image that looks like a notepad but also have very simple code.  I started off adding divs for the white paper and the back of the notepad, but then I realised I could achieve this with a box shadow saving me time, effort and kept the code simple and clean.
+
+* #### Daily CSS Images :: 09 Calendar 
+
+Do something unique. 
+
