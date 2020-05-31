@@ -191,11 +191,18 @@ h2 {
 	height: 90%;
 }
 
-.date {
+.date-box {
 	width: 12%;
 	height: 15%;
 	margin: 5px 4px;
 	border: 1px #fbfbfa solid;
+	position: relative;
+}
+
+.date {
+ position: absolute;
+ font-size: 0.6em;
+ font-weight: bold;
 }
 
 .month {
@@ -225,8 +232,12 @@ h2 {
 		margin-top: 4px;
 	}
 
-	.date {
+	.date-box {
 		margin: 2px 2px;
+	}
+
+	.date {
+		font-size: 0.3em;
 	}
 
 	.month {
