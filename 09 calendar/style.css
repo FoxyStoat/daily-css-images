@@ -87,6 +87,43 @@ h2 {
 	left: 10%;
 }
 
+.honeycomb-pink {
+	background: #fd96fd;
+	position: absolute;
+	bottom: 1%;
+	left: 1%;
+}
+
+.pink-1 {
+	bottom: 15%;
+	left: 1;
+}
+
+.pink-2 {
+	bottom: 8%;
+	left: 10%;
+}
+
+.pink-3 {
+	bottom: 1%;
+	left: 19%;
+}
+
+.pink-4 {
+	bottom: 15%;
+	left: 19%;
+}
+
+.pink-5 {
+	bottom: 8%;
+	left: 28%;
+}
+
+.pink-6 {
+	bottom: 1%;
+	left: 37%;
+}
+
 /*---------------- calendar date section ----------------*/
 .calendar-date-section {
 	position: relative;
