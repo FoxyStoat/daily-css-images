@@ -1,7 +1,21 @@
+html {
+  -webkit-box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  box-sizing: border-box;
+}
+*, *:before, *:after {
+  -webkit-box-sizing: inherit;
+  -moz-box-sizing: inherit;
+  box-sizing: inherit;
+  }
+
+body {
+	font-family: 'Amatic SC', cursive;
+}
+
 h1 {
 	text-align: center;
 	font-size: 3em;
-	font-family: 'Amatic SC', cursive;
 }
   
 span {
@@ -18,6 +32,11 @@ span {
 	align-items: center;
 }
 
+h2 {
+	text-align: center;
+}
+
+/*---------------- calendar image section ----------------*/
 .calendar-image-section {
 	position: relative;
 	width: 50%;
@@ -25,6 +44,50 @@ span {
 	border: 1px black solid;
 }
 
+.honeycomb {
+	clip-path: polygon(25% 0, 75% 0, 100% 50%, 75% 100%, 25% 100%, 0 50%);
+	height: 12%;
+	width: 10%;
+}
+
+.honeycomb-yellow {
+	background: #fdfd96;
+	position: absolute;
+	top: 1%;
+	left: 10%;
+}
+
+.yellow-1 {
+	top: 9%;
+	left: 1%;
+}
+
+.yellow-2 {
+	top: 15%;
+	left: 10%;
+}
+
+.yellow-3 {
+	top: 9%;
+	left: 19%;
+}
+
+.yellow-4 {
+	top: 23%;
+	left: 1%;
+}
+
+.yellow-5 {
+	top: 23%;
+	left: 19%;
+}
+
+.yellow-6 {
+	top: 29%;
+	left: 10%;
+}
+
+/*---------------- calendar date section ----------------*/
 .calendar-date-section {
 	position: relative;
 	width: 50%;
@@ -32,7 +95,7 @@ span {
 	border: 1px black solid;
 }
   
-	@media all and (max-width: 600px) {
+@media all and (max-width: 600px) {
 
 	.container {
 			width: 250px;
