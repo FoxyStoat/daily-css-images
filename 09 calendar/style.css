@@ -53,7 +53,7 @@ h2 {
 }
 
 .honeycomb-yellow {
-	background: #fdfd96;
+	background: rgba(253,253,150,0.8);
 	position: absolute;
 	top: 1%;
 	left: 10%;
@@ -95,7 +95,7 @@ h2 {
 }
 
 .honeycomb-pink {
-	background: #fd96fd;
+	background: rgba(253,150,253,0.8);
 	position: absolute;
 	bottom: 1%;
 	left: 1%;
@@ -132,7 +132,7 @@ h2 {
 }
 
 .honeycomb-blue {
-	background: #96fdfd;
+	background: rgba(150,253,253,0.8);
 	position: absolute;
 	top: 1%;
 	right: 1%;
@@ -196,11 +196,11 @@ h2 {
 	border: 1px #fbfbfa solid;
 }
 
-.month {
+h3.month {
 	position: absolute;
 	font-weight: bold;
 	font-size: 1.1em;
-	bottom: 0;
+	bottom: -3%;
 }
   
 @media all and (max-width: 600px) {
@@ -214,11 +214,15 @@ h2 {
 			font-size: 1.6em;
 	}
 
+	h2 {
+		font-size: 1.1em;
+	}
+
 	.date-container {
 		margin-top: 4px;
 	}
 
-	.month {
+	h3.month {
 		font-size: 0.7em;
 	}
 }
