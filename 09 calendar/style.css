@@ -174,6 +174,8 @@ h2 {
 	width: 50%;
 	height: 50%;
 	border: 1px black solid;
+	background: rgb(253,253,150);
+	background: linear-gradient(to bottom right, rgba(253,253,150,1) 29%, rgba(253,150,253,1) 55%, rgba(150,253,253,1) 100%);
 }
   
 @media all and (max-width: 600px) {
