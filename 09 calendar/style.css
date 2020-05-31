@@ -32,9 +32,7 @@ span {
 	align-items: center;
 }
 
-h2 {
-	text-align: center;
-}
+
 
 /*---------------- calendar image section ----------------*/
 .calendar-image-section {
@@ -42,6 +40,10 @@ h2 {
 	width: 50%;
 	height: 50%;
 	border: 1px black solid;
+}
+
+h2 {
+	text-align: center;
 }
 
 .honeycomb {
@@ -122,6 +124,43 @@ h2 {
 .pink-6 {
 	bottom: 1%;
 	left: 37%;
+}
+
+.honeycomb-blue {
+	background: #96fdfd;
+	position: absolute;
+	top: 1%;
+	right: 1%;
+}
+
+.blue-1 {
+	top: 15%;
+	right: 1%;
+}
+
+.blue-2 {
+	top: 8%;
+	right: 10%;
+}
+
+.blue-3 {
+	top: 22%;
+	right: 10%;
+}
+
+.blue-4 {
+	top: 29%;
+	right: 1%;
+}
+
+.blue-5 {
+	top: 36%;
+	right: 10%;
+}
+
+.blue-6 {
+	top: 15%;
+	right: 19%;
 }
 
 /*---------------- calendar date section ----------------*/
