@@ -80,6 +80,27 @@ span {
     background: #FFDA24;
 }
 
+.eye {
+    position: absolute;
+    top: 28%;
+    background: #000;
+    height: 7%;
+    width: 7%;
+    border-radius: 50%;
+    -webkit-border-radius: 50%;
+    -moz-border-radius: 50%;
+    -ms-border-radius: 50%;
+    -o-border-radius: 50%;
+}
+
+.left-eye {
+    left: 30%;
+}
+
+.right-eye {
+    right: 30%;
+}
+
 /*---------------- calendar date section ----------------*/
 .calendar-date-section {
 	position: relative;
