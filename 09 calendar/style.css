@@ -129,6 +129,151 @@ h2 {
 	-o-transform: rotate(15deg);
 }
 
+.sunray-long,
+.sunray-short {
+	position: absolute;
+	width: 6%;
+	background: #FFDA24;
+	border: 0.3px solid #000;
+}
+
+.sunray-short {
+	height: 25%;
+}
+
+.sunray-long {
+	height: 45%;
+}
+
+.sunray-1,
+.sunray-11 {
+	top: -15%;
+}
+
+.sunray-2,
+.sunray-10 {
+	top: -8%;
+}
+
+.sunray-3,
+.sunray-9 {
+	top: 40%;
+	transform: rotate(90deg);
+	-webkit-transform: rotate(90deg);
+	-moz-transform: rotate(90deg);
+	-ms-transform: rotate(90deg);
+	-o-transform: rotate(90deg);
+}
+
+.sunray-4,
+.sunray-8 {
+	top: 65%;
+}
+
+.sunray-5,
+.sunray-7 {
+	bottom: -15%;
+}
+
+.sunray-6,
+.sunray-12 {
+	left: 45%;
+}
+
+.sunray-1 {
+	right: 15%;
+	transform: rotate(30deg);
+	-webkit-transform: rotate(30deg);
+	-moz-transform: rotate(30deg);
+	-ms-transform: rotate(30deg);
+	-o-transform: rotate(30deg);
+}
+
+.sunray-11 {
+	left: 15%;
+	transform: rotate(-30deg);
+	-webkit-transform: rotate(-30deg);
+	-moz-transform: rotate(-30deg);
+	-ms-transform: rotate(-30deg);
+	-o-transform: rotate(-30deg);
+}
+
+.sunray-5 {
+	right: 15%;
+	transform: rotate(145deg);
+	-webkit-transform: rotate(145deg);
+	-moz-transform: rotate(145deg);
+	-ms-transform: rotate(145deg);
+	-o-transform: rotate(145deg);
+}
+
+.sunray-7 {
+	left: 15%;
+	transform: rotate(-145deg);
+	-webkit-transform: rotate(-145deg);
+	-moz-transform: rotate(-145deg);
+	-ms-transform: rotate(-145deg);
+	-o-transform: rotate(-145deg);
+}
+
+.sunray-2 {
+	right: -15%;
+	transform: rotate(60deg);
+	-webkit-transform: rotate(60deg);
+	-moz-transform: rotate(60deg);
+	-ms-transform: rotate(60deg);
+	-o-transform: rotate(60deg);
+}
+
+.sunray-10 {
+	left: -15%;
+	transform: rotate(-60deg);
+	-webkit-transform: rotate(-60deg);
+	-moz-transform: rotate(-60deg);
+	-ms-transform: rotate(-60deg);
+	-o-transform: rotate(-60deg);
+}
+
+
+
+.sunray-3 {
+	right: -15%;
+}
+
+.sunray-9 {
+	left: -15%;
+}
+
+.sunray-4 {
+	right: -15%;
+	transform: rotate(115deg);
+	-webkit-transform: rotate(115deg);
+	-moz-transform: rotate(115deg);
+	-ms-transform: rotate(115deg);
+	-o-transform: rotate(115deg);
+}
+
+.sunray-8 {
+	left: -15%;
+	transform: rotate(-115deg);
+	-webkit-transform: rotate(-115deg);
+	-moz-transform: rotate(-115deg);
+	-ms-transform: rotate(-115deg);
+	-o-transform: rotate(-115deg);
+}
+
+
+
+.sunray-6 {
+	top: 100%;
+}
+
+.sunray-12 {
+	bottom: 100%;
+}
+
+
+
 /*---------------- calendar date section ----------------*/
 .calendar-date-section {
 	position: relative;
