@@ -66,10 +66,17 @@ span {
 	background: linear-gradient(to top right, rgba(253,253,150,1) 29%, rgba(253,150,253,1) 55%, rgba(150,253,253,1) 100%);
 }
 
+h2 {
+	color: blueviolet;
+	font-size: 3em;
+	text-align: center;
+	margin-top: 3%;
+}
+
 .sun {
 	position: absolute;
 	right: 35%;
-	top: 25%;
+	top: 40%;
 	width: 30%;
 	height: 40%;
 	border: 1px solid #000;
@@ -82,24 +89,24 @@ span {
 }
 
 .eye {
-    position: absolute;
-    top: 28%;
-    background: #000;
-    height: 6%;
-    width: 6%;
-    border-radius: 50%;
-    -webkit-border-radius: 50%;
-    -moz-border-radius: 50%;
-    -ms-border-radius: 50%;
-    -o-border-radius: 50%;
+	position: absolute;
+	top: 28%;
+	background: #000;
+	height: 6%;
+	width: 6%;
+	border-radius: 50%;
+	-webkit-border-radius: 50%;
+	-moz-border-radius: 50%;
+	-ms-border-radius: 50%;
+	-o-border-radius: 50%;
 }
 
 .left-eye {
-    left: 30%;
+  left: 30%;
 }
 
 .right-eye {
-    right: 30%;
+  right: 30%;
 }
 
 .smile {
@@ -198,11 +205,16 @@ span {
 
 	/* Image section */
 
+	h2 {
+		font-size: 1.2em;
+		margin-top: 3%;
+	}
+
 	.smile {
 		width: 20px;
 		height: 20px;
 		top: 20%;
 		left: 20%;
 		box-shadow: 1px 2px 0 0 #000;
-}
+	}
 }
