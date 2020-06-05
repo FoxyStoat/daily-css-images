@@ -3,6 +3,7 @@ html {
   -moz-box-sizing: border-box;
   box-sizing: border-box;
 }
+
 *, *:before, *:after {
   -webkit-box-sizing: inherit;
   -moz-box-sizing: inherit;
@@ -67,25 +68,25 @@ span {
 
 .sun {
 	position: absolute;
-	right: 10%;
-	top: 10%;
-    width: 30%;
-    height: 40%;
-    border: 1px solid #000;
-    border-radius: 50%;
-    -webkit-border-radius: 50%;
-    -moz-border-radius: 50%;
-    -ms-border-radius: 50%;
-    -o-border-radius: 50%;
-    background: #FFDA24;
+	right: 35%;
+	top: 25%;
+	width: 30%;
+	height: 40%;
+	border: 1px solid #000;
+	border-radius: 50%;
+	-webkit-border-radius: 50%;
+	-moz-border-radius: 50%;
+	-ms-border-radius: 50%;
+	-o-border-radius: 50%;
+	background: #FFDA24;
 }
 
 .eye {
     position: absolute;
     top: 28%;
     background: #000;
-    height: 7%;
-    width: 7%;
+    height: 6%;
+    width: 6%;
     border-radius: 50%;
     -webkit-border-radius: 50%;
     -moz-border-radius: 50%;
@@ -103,10 +104,10 @@ span {
 
 .smile {
 	position: absolute;
-	width: 20px;
-	height: 20px;
-	top: 45%;
-	left: 40%;
+	width: 40px;
+	height: 40px;
+	top: 30%;
+	left: 28%;
 	background-color: transparent;
 	border-radius: 50%;
 	-webkit-border-radius: 50%;
@@ -177,6 +178,8 @@ span {
 			font-size: 1.6em;
 	}
 
+	/* Date section */
+
 	.date-container {
 		margin-top: 4px;
 	}
@@ -192,4 +195,14 @@ span {
 	.month {
 		font-size: 0.7em;
 	}
+
+	/* Image section */
+
+	.smile {
+		width: 20px;
+		height: 20px;
+		top: 20%;
+		left: 20%;
+		box-shadow: 1px 2px 0 0 #000;
+}
 }
