@@ -79,7 +79,7 @@ h2 {
 	top: 40%;
 	width: 30%;
 	height: 40%;
-	border: 1px solid #000;
+	/* border: 1px solid #000; */
 	border-radius: 50%;
 	-webkit-border-radius: 50%;
 	-moz-border-radius: 50%;
@@ -122,11 +122,11 @@ h2 {
 	-ms-border-radius: 50%;
 	-o-border-radius: 50%;
 	box-shadow: 1px 3px 0 0 #000;
-	transform: rotate(15deg);
-	-webkit-transform: rotate(15deg);
-	-moz-transform: rotate(15deg);
-	-ms-transform: rotate(15deg);
-	-o-transform: rotate(15deg);
+	transform: rotate(20deg);
+	-webkit-transform: rotate(20deg);
+	-moz-transform: rotate(20deg);
+	-ms-transform: rotate(20deg);
+	-o-transform: rotate(20deg);
 }
 
 .sunray-long,
@@ -134,7 +134,6 @@ h2 {
 	position: absolute;
 	width: 6%;
 	background: #FFDA24;
-	border: 0.3px solid #000;
 }
 
 .sunray-short {
