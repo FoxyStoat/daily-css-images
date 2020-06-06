@@ -70,5 +70,7 @@ My attempt: Happy to have an image that looks like a notepad but also have very 
 
 * #### Daily CSS Images :: 09 Calendar 
 
-Do something unique. 
+Do something unique.
+
+My attempt: I like how this turned out, I changed the calendar image a few times so this took me a little longer, but I am happy with the results.  I used flexbox to help with the calendar dates, this saved a lot of time.
 
