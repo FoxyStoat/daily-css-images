@@ -1,0 +1,47 @@
+html {
+  -webkit-box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  box-sizing: border-box;
+}
+
+*, *:before, *:after {
+  -webkit-box-sizing: inherit;
+  -moz-box-sizing: inherit;
+  box-sizing: inherit;
+  }
+
+body {
+	font-family: 'Amatic SC', cursive;
+}
+
+h1 {
+	text-align: center;
+	font-size: 3em;
+}
+  
+span {
+	margin: 0 0.3em;
+}
+    
+.container {
+	margin: auto;
+	margin-top: 1%;
+	width: 600px;
+	height: 420px;
+	display: flex;
+	flex-flow: column nowrap;
+	align-items: center;
+}
+
+  
+@media all and (max-width: 600px) {
+
+  .container {
+		width: 250px;
+		height: 175px;
+  }
+
+  h1 {
+		font-size: 1.6em;
+  }
+}
