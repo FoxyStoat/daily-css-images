@@ -1,9 +1,13 @@
 /* COLOUR PALETTE
-$maya-blue: #5fbff9ff;
-$magnolia: #efe9f4ff;
-$dark-jungle-green: #171d1cff;
-$neon-blue: #5863f8ff;
+$maya-blue: #73C2FB;
+$magnolia: #F8F4FF;
+$dark-jungle-green: #1a2421;
+$neon-blue: #1b03a3;
 */
+
+body {
+	background: rgba(115, 194, 251, 0.4);
+}
 
 h1 {
   text-align: center;
@@ -29,7 +33,7 @@ span {
   width: 100%;
   height: 15%;
   top: 15%;
-  background: linear-gradient(#5fbff9ff 0%, #efe9f4ff 40%, 70%, #5863f8ff 100%);
+  background: linear-gradient(#73C2FB 0%, #F8F4FF 40%, 70%, #1b03a3 100%);
 }
 
 .cm-container {
@@ -43,7 +47,7 @@ span {
   text-align: center;
   font-size: 80%;
   font-weight: bold;
-  color: #171d1cff;
+  color: #1a2421;
 }
 
 /* \007c for | pipe sign */
