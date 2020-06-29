@@ -12,15 +12,32 @@ span {
 }
     
 .container {
+	position: relative;
 	margin: auto;
 	margin-top: 1%;
 	width: 600px;
 	height: 420px;
-	display: flex;
-	flex-flow: column nowrap;
-	align-items: center;
+	display: block;
 }
 
+.jar {
+	position: absolute;
+	width: 40%;
+	height: 70%;
+	background: #FFE019;
+	top: 50%;
+	left: 50%;
+	transform: translate(-50%);
+	-webkit-transform: translate(-50%);
+	-moz-transform: translate(-50%);
+	-ms-transform: translate(-50%);
+	-o-transform: translate(-50%);
+	border-radius: 8%;
+	-webkit-border-radius: 8%;
+	-moz-border-radius: 8%;
+	-ms-border-radius: 8%;
+	-o-border-radius: 8%;
+}
   
 @media all and (max-width: 600px) {
 
