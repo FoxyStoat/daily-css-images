@@ -1,8 +1,8 @@
 # DAILY CSS IMAGES
 
 #dailycssimages
-
-Just started this challenge 16th October 2018 - I believe it is now closed, what a shame! I signed up for it 16th Jan 2017 and didn't get round to starting it because of well ... life, stuff happens. Anyway, I just recently found all the emails I was sent that I had saved in a separate folder and now commit myself to finish this wonderful CSS images challenge. Mega gratitude to the creator Mike Mangialardi!
+ 
+Mega gratitude to the creator Mike Mangialardi of this wonderful CSS images challenge!
 
 This challenge is now closed but if you would like to read more about it, here are two helpful links:
 * [How it came about](https://medium.com/dailycssimages/daily-css-images-everything-you-need-to-know-e725bc419044)
