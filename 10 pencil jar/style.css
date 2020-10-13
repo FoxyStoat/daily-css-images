@@ -85,6 +85,17 @@ span {
 	clip-path: polygon(50% 100%, 0 0, 100% 0);
 	bottom: -8%;
 }
+
+.pencil-2 {
+	background: rgb(252, 74, 4);
+	left: 75%;
+	top: -17%;
+	transform: rotate(16deg);
+	-webkit-transform: rotate(16deg);
+	-moz-transform: rotate(16deg);
+	-ms-transform: rotate(16deg);
+	-o-transform: rotate(16deg);
+}
   
 @media all and (max-width: 600px) {
 
