@@ -51,11 +51,19 @@ span {
 	-ms-border-radius: 8%;
 	-o-border-radius: 8%;
 	top: -20%;
+	left: 4%;
+	transform: rotate(-5deg);
+	-webkit-transform: rotate(-5deg);
+	-moz-transform: rotate(-5deg);
+	-ms-transform: rotate(-5deg);
+	-o-transform: rotate(-5deg);
 }
 
 .pencil-eraser {
 	position: absolute;
-	width: 100%;
+	width: 106%;
+	left: -3%;
+	top: -1%;
 	height: 10%;
 	background: pink;
 }
