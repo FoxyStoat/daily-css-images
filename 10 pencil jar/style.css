@@ -109,11 +109,11 @@ span {
 	background: rgb(4, 155, 62);
 	left: 15%;
 	top: -20%;
-	transform: rotate(-5deg);
-	-webkit-transform: rotate(-5deg);
-	-moz-transform: rotate(-5deg);
-	-ms-transform: rotate(-5deg);
-	-o-transform: rotate(-5deg);
+	transform: rotate(-6deg);
+	-webkit-transform: rotate(-6deg);
+	-moz-transform: rotate(-6deg);
+	-ms-transform: rotate(-6deg);
+	-o-transform: rotate(-6deg);
 }
 
 @media all and (max-width: 600px) {
