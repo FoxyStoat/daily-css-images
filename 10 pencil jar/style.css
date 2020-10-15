@@ -63,11 +63,15 @@ span {
 
 .pencil-eraser {
 	position: absolute;
-	width: 106%;
-	left: -3%;
+	width: 100%;
 	top: -1%;
 	height: 10%;
-	background: pink;
+	background: rgb(252, 172, 185);
+	border-radius: 8%;
+	-webkit-border-radius: 8%;
+	-moz-border-radius: 8%;
+	-ms-border-radius: 8%;
+	-o-border-radius: 8%;
 }
 
 .pencil-tip {
