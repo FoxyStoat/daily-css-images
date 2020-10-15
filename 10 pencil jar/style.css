@@ -98,7 +98,18 @@ span {
 	-ms-transform: rotate(16deg);
 	-o-transform: rotate(16deg);
 }
-  
+
+.pencil-3 {
+	background: rgb(4, 155, 62);
+	left: 15%;
+	top: -20%;
+	transform: rotate(-5deg);
+	-webkit-transform: rotate(-5deg);
+	-moz-transform: rotate(-5deg);
+	-ms-transform: rotate(-5deg);
+	-o-transform: rotate(-5deg);
+}
+
 @media all and (max-width: 600px) {
 
   .container {
