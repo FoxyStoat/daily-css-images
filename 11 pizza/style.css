@@ -39,6 +39,20 @@ span {
 	-o-transform: translate(-50%);
 }
 
+.tomato-sauce {
+	position: absolute;
+	width: 90%;
+	height: 90%;
+	background: rgba(165, 6, 6, 0.8);
+	top: 5%;
+	left: 5%;
+	border-radius: 50%;
+	-webkit-border-radius: 50%;
+	-moz-border-radius: 50%;
+	-ms-border-radius: 50%;
+	-o-border-radius: 50%;
+}
+
 @media all and (max-width: 600px) {
 
 	.container {
