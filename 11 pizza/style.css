@@ -53,6 +53,35 @@ span {
 	-o-border-radius: 50%;
 }
 
+.mozzarella {
+	position: absolute;
+	width: 20%;
+	height: 20%;
+	background: rgb(265, 265, 265);
+	top: 25%;
+	left: 25%;
+	border-radius: 50%;
+	-webkit-border-radius: 50%;
+	-moz-border-radius: 50%;
+	-ms-border-radius: 50%;
+	-o-border-radius: 50%;
+}
+
+.cheese-2 {
+	top: 35%;
+	left: 65%;
+}
+
+.cheese-3 {
+	top: 65%;
+	left: 35%;
+}
+
+.cheese-4 {
+	top: 35%;
+	left: 35%;
+}
+
 @media all and (max-width: 600px) {
 
 	.container {
