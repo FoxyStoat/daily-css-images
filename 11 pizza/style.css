@@ -54,6 +54,21 @@ span {
 }
 
 /* cheese */
+.cheese {
+	position: absolute;
+	width: 88%;
+	height: 88%;
+	background: rgb(250, 228, 105);
+	top: 6%;
+	left: 6%;
+	border-radius: 50%;
+	-webkit-border-radius: 50%;
+	-moz-border-radius: 50%;
+	-ms-border-radius: 50%;
+	-o-border-radius: 50%;
+}
+
+/* mozzarella cheese */
 .mozzarella {
 	position: absolute;
 	width: 20%;
