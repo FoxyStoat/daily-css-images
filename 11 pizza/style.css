@@ -172,6 +172,66 @@ span {
 	-o-transform: rotate(80deg);
 }
 
+/* olive */
+.olive {
+	position: absolute;
+	width: 8%;
+	height: 16%;
+	background: rgb(10, 10, 10);
+	top: 25%;
+	left: 20%;
+	border-radius: 50%;
+	-webkit-border-radius: 50%;
+	-moz-border-radius: 50%;
+	-ms-border-radius: 50%;
+	-o-border-radius: 50%;
+}
+
+.olive-1 {
+	top: 10%;
+	left: 50%;
+}
+
+.olive-2 {
+	top: 60%;
+	left: 30%;
+	transform: rotate(50deg);
+	-webkit-transform: rotate(50deg);
+	-moz-transform: rotate(50deg);
+	-ms-transform: rotate(50deg);
+	-o-transform: rotate(50deg);
+}
+
+.olive-3 {
+	top: 58%;
+	left: 80%;
+	transform: rotate(160deg);
+	-webkit-transform: rotate(160deg);
+	-moz-transform: rotate(160deg);
+	-ms-transform: rotate(160deg);
+	-o-transform: rotate(160deg);
+}
+
+.olive-4 {
+	top: 50%;
+	left: 53%;
+	transform: rotate(140deg);
+	-webkit-transform: rotate(140deg);
+	-moz-transform: rotate(140deg);
+	-ms-transform: rotate(140deg);
+	-o-transform: rotate(140deg);
+}
+
+.olive-5 {
+	top: 30%;
+	left: 64%;
+	transform: rotate(20deg);
+	-webkit-transform: rotate(20deg);
+	-moz-transform: rotate(20deg);
+	-ms-transform: rotate(20deg);
+	-o-transform: rotate(20deg);
+}
+
 @media all and (max-width: 600px) {
 
 	.container {
