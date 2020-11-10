@@ -53,6 +53,7 @@ span {
 	-o-border-radius: 50%;
 }
 
+/* cheese */
 .mozzarella {
 	position: absolute;
 	width: 20%;
@@ -100,11 +101,12 @@ span {
 	left: 10%;
 }
 
+/* basil */
 .basil {
 	position: absolute;
 	width: 12%;
 	height: 12%;
-	background: rgba(49, 156, 37, 0.8);
+	background: rgb(49, 156, 37);
 	top: 10%;
 	left: 25%;
 	border-radius: 50%;
@@ -113,6 +115,46 @@ span {
 	-ms-border-radius: 50%;
 	-o-border-radius: 50%;
 	border-top-right-radius: 0;
+}
+
+.basil-2 {
+	top: 30%;
+	left: 75%;
+}
+
+.basil-3 {
+	top: 80%;
+	left: 60%;
+}
+
+.basil-4 {
+	top: 75%;
+	left: 35%;
+	transform: rotate(160deg);
+	-webkit-transform: rotate(160deg);
+	-moz-transform: rotate(160deg);
+	-ms-transform: rotate(160deg);
+	-o-transform: rotate(160deg);
+}
+
+.basil-5 {
+	top: 25%;
+	left: 48%;
+	transform: rotate(180deg);
+	-webkit-transform: rotate(180deg);
+	-moz-transform: rotate(180deg);
+	-ms-transform: rotate(180deg);
+	-o-transform: rotate(180deg);
+}
+
+.basil-6 {
+	top: 55%;
+	left: 7%;
+	transform: rotate(80deg);
+	-webkit-transform: rotate(80deg);
+	-moz-transform: rotate(80deg);
+	-ms-transform: rotate(80deg);
+	-o-transform: rotate(80deg);
 }
 
 @media all and (max-width: 600px) {
