@@ -42,11 +42,11 @@ span {
 .burger {
 	position: absolute;
 	width: 100%;
-	height: 90%;
-	top: -80%;
+	height: 100%;
+	top: -83%;
 	background: rgb(119,67,30);
 	border-radius: 40%;
-	-webkit-border-radius: 40%;
+	-webkit-border-radius: 45%;
 	-moz-border-radius: 40%;
 	-ms-border-radius: 40%;
 	-o-border-radius: 40%;
@@ -61,6 +61,13 @@ span {
 	background: rgb(240, 210, 78);
 	clip-path: polygon(82% 41%, 0 0, 100% 0);
 	z-index: 11;
+}
+
+.lettuce {
+	position: absolute;
+	width: 100%;
+	height: 15%;
+	background: #6db30c;
 }
 
 @media all and (max-width: 600px) {
