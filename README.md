@@ -38,9 +38,6 @@ My attempt: It looks better than the elephant!  I am actually pleased with how t
 
 Don't worry. It can be still be cute and simple. Just a face is still perfectly ok.
 
-After a very long break away from this challenge, I have picked up where I had left it, on the Tiger.  After a very rough few years, I am back today 25/04/2020 to finish this challenge.
-
-My attempt: Day four the Tiger went well and I am pleased with the result, I kept it simple.
 
 * #### Daily CSS Images :: 05 Favorite Animated Animal
 
@@ -76,7 +73,13 @@ My attempt: I like how this turned out, I changed the calendar image a few times
 
 * #### Daily CSS Images :: 10 Pencil Jar 
 
-...and anything else it may hold. 
+...and anything else it may hold.
 
-My attempt:
+* #### Daily CSS Images :: 11 Pizza
+
+This week is going to be delicious. Make some mouths water. 
+
+* #### Daily CSS Images :: 12 Hamburger
+
+Give this image some extra toppings.
 
