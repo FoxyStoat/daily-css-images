@@ -52,6 +52,17 @@ span {
 	-o-border-radius: 40%;
 }
 
+.cheese-slice {
+	position: absolute;
+	width: 80%;
+	height: 170%;
+	top: -80%;
+	left: 10%;
+	background: rgb(240, 210, 78);
+	clip-path: polygon(82% 41%, 0 0, 100% 0);
+	z-index: 11;
+}
+
 @media all and (max-width: 600px) {
 
 	.container {
