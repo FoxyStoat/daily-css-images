@@ -45,11 +45,11 @@ span {
 	height: 100%;
 	top: -83%;
 	background: rgb(119,67,30);
-	border-radius: 40%;
-	-webkit-border-radius: 45%;
-	-moz-border-radius: 40%;
-	-ms-border-radius: 40%;
-	-o-border-radius: 40%;
+	border-radius: 30%;
+	-webkit-border-radius: 30%;
+	-moz-border-radius: 30%;
+	-ms-border-radius: 30%;
+	-o-border-radius: 30%;
 }
 
 .cheese-slice {
