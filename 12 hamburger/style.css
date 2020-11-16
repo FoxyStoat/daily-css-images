@@ -80,9 +80,15 @@ span {
 
 .lettuce {
 	position: absolute;
-	width: 100%;
+	left: -2.5%;
+	width: 105%;
 	height: 15%;
 	background: #79aa23;
+	border-radius: 30%;
+	-webkit-border-radius: 30%;
+	-moz-border-radius: 30%;
+	-ms-border-radius: 30%;
+	-o-border-radius: 30%;
 }
 
 .ketchup {
