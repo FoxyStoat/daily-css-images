@@ -31,8 +31,7 @@ span {
 	-webkit-transform: translate(-50%);
 	-moz-transform: translate(-50%);
 	-ms-transform: translate(-50%);
-	-o-transform: translate(-50%);
-	
+	-o-transform: translate(-50%);	
 }
 
 .bun-base {
@@ -41,6 +40,7 @@ span {
 	-moz-border-radius: 25% 25% 20% 20%;
 	-ms-border-radius: 25% 25% 20% 20%;
 	-o-border-radius: 25% 25% 20% 20%;
+	box-shadow: rgba(92, 91, 91, 0.9) 15px 15px 30px;
 }
 
 .bun-top {
