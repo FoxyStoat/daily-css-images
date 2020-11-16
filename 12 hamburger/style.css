@@ -17,7 +17,7 @@ span {
 	margin: auto;
 	width: 600px;
 	height: 420px;
-	display: block;
+	/* display: block; */
 }
 
 .bun-base,
@@ -78,7 +78,7 @@ span {
 	position: absolute;
 	width: 100%;
 	height: 15%;
-	background: #6db30c;
+	background: #79aa23;
 }
 
 .ketchup {
