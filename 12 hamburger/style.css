@@ -118,11 +118,11 @@ span {
 .seed-2 {
 	top: 18%;
 	left: 30%;
-	transform: rotate(-50deg);
-	-webkit-transform: rotate(-50deg);
-	-moz-transform: rotate(-50deg);
-	-ms-transform: rotate(-50deg);
-	-o-transform: rotate(-50deg);
+	transform: rotate(-30deg);
+	-webkit-transform: rotate(-30deg);
+	-moz-transform: rotate(-30deg);
+	-ms-transform: rotate(-30deg);
+	-o-transform: rotate(-30deg);
 }
 
 .seed-3 {
