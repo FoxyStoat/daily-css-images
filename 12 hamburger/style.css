@@ -33,11 +33,13 @@ span {
 	-moz-transform: translate(-50%);
 	-ms-transform: translate(-50%);
 	-o-transform: translate(-50%);
-	border-radius: 5%;
-	-webkit-border-radius: 5%;
-	-moz-border-radius: 5%;
-	-ms-border-radius: 5%;
-	-o-border-radius: 5%;
+}
+
+.bun-base {
+	border-top-left-radius: 25%;
+	border-top-right-radius: 25%;
+	border-bottom-left-radius: 20%;
+	border-bottom-right-radius: 20%;
 }
 
 .bun-top {
