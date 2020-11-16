@@ -17,7 +17,6 @@ span {
 	margin: auto;
 	width: 600px;
 	height: 420px;
-	/* display: block; */
 }
 
 .bun-base,
@@ -33,21 +32,26 @@ span {
 	-moz-transform: translate(-50%);
 	-ms-transform: translate(-50%);
 	-o-transform: translate(-50%);
+	
 }
 
 .bun-base {
-	border-top-left-radius: 25%;
-	border-top-right-radius: 25%;
-	border-bottom-left-radius: 20%;
-	border-bottom-right-radius: 20%;
+	border-radius: 25% 25% 20% 20%;
+	-webkit-border-radius: 25% 25% 20% 20%;
+	-moz-border-radius: 25% 25% 20% 20%;
+	-ms-border-radius: 25% 25% 20% 20%;
+	-o-border-radius: 25% 25% 20% 20%;
 }
 
 .bun-top {
 	top: 2%;
 	height: 20%;
 	z-index: 14;
-	border-top-left-radius: 50%;
-	border-top-right-radius: 50%;
+	border-radius: 50% 50% 0 0;
+	-webkit-border-radius: 50% 50% 0 0;
+	-moz-border-radius: 50% 50% 0 0;
+	-ms-border-radius: 50% 50% 0 0;
+	-o-border-radius: 50% 50% 0 0;
 }
 
 .burger {
