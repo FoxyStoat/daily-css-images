@@ -91,6 +91,21 @@ span {
 	background: #6db30c;
 }
 
+.ketchup {
+	position: absolute;
+	top: -95%;
+	left: 5%;
+	width: 90%;
+	height: 30%;
+	background: #C82922;
+	border-radius: 50%;
+	-webkit-border-radius: 50%;
+	-moz-border-radius: 50%;
+	-ms-border-radius: 50%;
+	-o-border-radius: 50%;
+	z-index: 17;
+}
+
 @media all and (max-width: 600px) {
 
 	.container {
