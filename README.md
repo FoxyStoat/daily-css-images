@@ -85,6 +85,16 @@ Give this image some extra toppings.
 
 * #### Daily CSS Images :: 13 Taco 
 
-Crunchy or soft? 
+Crunchy or soft?
+
+* #### Daily CSS Images :: 14 Cheesecake
+
+So many options, make it rich.
+
+* #### Daily CSS Images :: 15 Pie
+
+Pecan, pumpkin, or banana cream? Slice or whole? What are you feeling? 
+
+
 
 
