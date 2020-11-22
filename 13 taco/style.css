@@ -18,6 +18,34 @@ span {
 	height: 420px;
 }
 
+.taco,
+.taco-copy {
+  position: absolute;
+  background: radial-gradient(#D19A4D, #fad370);
+  width: 50%;
+  height: 40%;
+  top: 10%;
+  left: 50%;
+  transform: translate(-50%);
+  -webkit-transform: translate(-50%);
+  -moz-transform: translate(-50%);
+  -ms-transform: translate(-50%);
+  -o-transform: translate(-50%);
+  border-radius: 100% 100% 15% 15%;
+  -webkit-border-radius: 100% 100% 15% 15%;
+  -moz-border-radius: 100% 100% 15% 15%;
+  -ms-border-radius: 100% 100% 15% 15%;
+  -o-border-radius: 100% 100% 15% 15%;
+  border: rgb(92, 92, 92) solid 1px;
+  z-index: 10;
+}
+
+.taco-copy {
+  top: 7%;
+  left: 54%;
+  z-index: 5;
+}
+
 @media all and (max-width: 600px) {
 
 	.container {
