@@ -25,26 +25,54 @@ span {
   background: radial-gradient(#D19A4D, #fad370);
   width: 50%;
   height: 40%;
-  top: 10%;
-  left: 50%;
+  top: 4%;
+  left: 57%;
   transform: translate(-50%);
-  -webkit-transform: translate(-50%);
-  -moz-transform: translate(-50%);
-  -ms-transform: translate(-50%);
-  -o-transform: translate(-50%);
   border-radius: 100% 100% 15% 15%;
   -webkit-border-radius: 100% 100% 15% 15%;
   -moz-border-radius: 100% 100% 15% 15%;
   -ms-border-radius: 100% 100% 15% 15%;
   -o-border-radius: 100% 100% 15% 15%;
   border: rgb(92, 92, 92) solid 1px;
-  z-index: 10;
 }
 
 .taco-copy {
   top: 7%;
   left: 54%;
-  z-index: 5;
+}
+
+
+.lettuce,
+.lettuce::before,
+.lettuce::after {
+  position: absolute;
+  width: 40%;
+  height: 80%;
+  background: radial-gradient(#82B361, #9AC63F);
+  border-radius: 50%;
+  -webkit-border-radius: 50%;
+  -moz-border-radius: 50%;
+  -ms-border-radius: 50%;
+  -o-border-radius: 50%;
+}
+
+.lettuce {
+  top: 1%;
+  left: 20%;
+}
+
+.lettuce::before,
+.lettuce::after {
+  content: "";
+  width: 100%;
+  height: 100%;
+  top: 3%;
+  left: 50%;
+}
+
+.lettuce::after {
+  top: 20%;
+  left: 95%;
 }
 
 @media all and (max-width: 600px) {
