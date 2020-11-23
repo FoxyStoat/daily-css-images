@@ -121,5 +121,9 @@ span {
 
 	h1 {
 		font-size: 1.6em;
-	}
+  }
+  
+  .taco-copy {
+    background-size: 4px 6px;
+  }
 }
