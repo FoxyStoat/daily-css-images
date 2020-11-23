@@ -69,7 +69,7 @@ My attempt: Happy to have an image that looks like a notepad but also have very 
 
 Do something unique.
 
-My attempt: I like how this turned out, I changed the calendar image a few times so this took me a little longer, but I am happy with the results.  I used flexbox to help with the calendar dates, this saved a lot of time.
+My attempt: I like how this turned out, I changed the calendar image a few times so this took me a little longer, but I am happy with the results.  I used flexbox to help with the calendar dates.
 
 * #### Daily CSS Images :: 10 Pencil Jar 
 
@@ -86,6 +86,8 @@ Give this image some extra toppings.
 * #### Daily CSS Images :: 13 Taco 
 
 Crunchy or soft?
+
+I have have found radial gradient usual to create a little texture on the taco shell.
 
 * #### Daily CSS Images :: 14 Cheesecake
 
