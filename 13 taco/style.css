@@ -33,12 +33,14 @@ span {
   -moz-border-radius: 100% 100% 15% 15%;
   -ms-border-radius: 100% 100% 15% 15%;
   -o-border-radius: 100% 100% 15% 15%;
-  border: rgb(92, 92, 92) solid 1px;
+  border: #e7a958 solid 2px;
 }
 
 .taco-copy {
   top: 7%;
-  left: 54%;
+  left: 56%;
+  background-image: radial-gradient(circle, #D19A4D 28%, #fad370) 30%);
+  background-size: 5px 10px;
 }
 
 
@@ -68,6 +70,7 @@ span {
   height: 100%;
   top: 3%;
   left: 50%;
+  box-shadow: 2px -3px 0 #c62a16;
 }
 
 .lettuce::after {
@@ -107,7 +110,6 @@ span {
 .beef::after {
   top: 30%;
   left: 80%;
-  
 }
 
 @media all and (max-width: 600px) {
