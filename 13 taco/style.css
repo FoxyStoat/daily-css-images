@@ -39,7 +39,7 @@ span {
 .taco-copy {
   top: 7%;
   left: 56%;
-  background-image: radial-gradient(circle, #D19A4D 28%, #fad370) 30%);
+  background-image: radial-gradient(circle, #D19A4D 28%, #fad370, 30%);
   background-size: 5px 10px;
 }
 
