@@ -20,18 +20,19 @@ span {
 	position: absolute; 
   font-size: 10px;
   border: 1px solid #aaa;
-  width: 24em;
-  height: 24em;
+  width: 30em;
+  height: 29em;
 	left: 50%;
-	top: 50%;
+	top: 60%;
 	transform: translate(-50%, -50%);
 }
 
 @media all and (max-width: 600px) {
 
 	.cheesecake {
-		width: 16em;
-		height: 16em;
+		width: 15em;
+		height: 14em;
+		top: 40%;
 	}
 
 	h1 {
