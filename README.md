@@ -2,9 +2,9 @@
 
 #dailycssimages
 
-Mega gratitude to the creator Mike Mangialardi of this wonderful CSS images challenge!
+Thanks to the creator Mike Mangialardi for this wonderful CSS images challenge!
 
-This challenge is now closed but if you would like to read more about it, here are two helpful links:
+If you would like to read more about it, here are two helpful links:
 * [How it came about](https://medium.com/dailycssimages/daily-css-images-everything-you-need-to-know-e725bc419044)
 
 * [A Beginner’s Guide to Pure CSS Images](https://medium.com/coding-artist/a-beginners-guide-to-pure-css-images-ef9a5d069dd2)
