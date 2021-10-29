@@ -89,6 +89,10 @@ During this point in the challenge I lost motivation, I think I just found drawi
 
 Pecan, pumpkin, or banana cream? Slice or whole? What are you feeling?
 
+* #### Daily CSS Images :: 16 Frankenstein
+
+Monster week has been constructed. Put pieces together.
+
 
 
 
