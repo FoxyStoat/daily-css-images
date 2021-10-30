@@ -93,6 +93,10 @@ Pecan, pumpkin, or banana cream? Slice or whole? What are you feeling?
 
 Monster week has been constructed. Put pieces together.
 
+* #### Daily CSS Images :: 17 Zombie
+
+Mmm. Brains.
+
 
 
 
