@@ -97,6 +97,19 @@ Monster week has been constructed. Put pieces together.
 
 Mmm. Brains.
 
+* #### Daily CSS Images :: 18 Vampire
+
+I want to sucka yo code.
+
+* #### Daily CSS Images :: 19 Monster of Choice
+
+This one is up to you, but remember cute and spooky can go together quite well.
+
+* #### Daily CSS Images :: 20 Monster of Choice
+
+It's a full moon.
+
+
 
 
 
