@@ -1,0 +1,36 @@
+body {
+  display: flex;
+	flex-direction: column;
+	align-items: center;
+  /* background: #d6d4cb; */
+  background: #000;
+}
+
+html {
+  font-size: 62.5%;
+}
+
+h1 {
+	text-align: center;
+	font-size: 3em;
+	font-family: 'Amatic SC', cursive;
+	color: #fff;
+}
+
+span {
+	margin: 0 0.3em;
+}
+
+.zombie {
+  margin-top: 6em;
+  margin-right: 19em;
+  width: 3px;
+  height: 3px;
+  box-shadow: 75px 0px 0 #000000;
+}
+
+@media all and (max-width: 600px) {
+  h1 {
+  font-size: 2.3em;
+}
+}
